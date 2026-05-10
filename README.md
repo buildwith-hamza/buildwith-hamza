@@ -1,11 +1,11 @@
-# Hi, I'm [Hamza qayyum] 👋
+# Hi, I'm Hamza qayyum 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)
+
 
 ## About me
 
-- 🎓 2nd semester CS student @ [Beaconhouse National University]
-- 🌱 Currently learning: data structures, OOP in Python & responsive web design
+- 🎓 Computer Science student at Beaconhouse National University
+- 🌱 Currently learning: data structures, OOP in c++
 - 🔨 Building: a personal portfolio website and a Python quiz app
 - 🎯 Goal: land my first internship by 4th semester
 - 📫 Reach me: hamzaqayyum.009@gmail.com · [LinkedIn](https://linkedin.com/in/yourprofile)
@@ -16,7 +16,7 @@
 
 **Languages**
 ```
-Python   ████████░░  Intermediate
+
 HTML     ███████░░░  Comfortable
 CSS      ██████░░░░  Learning
 ```
